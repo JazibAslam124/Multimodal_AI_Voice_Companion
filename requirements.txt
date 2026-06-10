@@ -5,6 +5,3 @@ sentence-transformers
 edge-tts
 python-dotenv
 numpy
-git add Procfile requirements.txt telegram_bot.py
-git commit -m "Add Railway deployment config"
-git push
